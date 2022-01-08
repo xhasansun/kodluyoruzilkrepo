@@ -2,7 +2,7 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-![github](img/repo.png)
+![github](img/kodluyoruzrepo.png)
 
 ## Installation
 
